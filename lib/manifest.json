@@ -1,7 +1,7 @@
 {
   "name": "Jisho 2 JSON",
-  "description": "This extension will copy a clicked Jisho entry to the clipboard as stringified JSON",
-  "version": "1.4.2",
+  "description": "Copy a Jisho entry to the clipboard as formatted text (click) or stringified JSON (dblclick)",
+  "version": "1.5.0",
   "manifest_version": 2,
   "background": {
     "persistent": false,
